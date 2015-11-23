@@ -17,8 +17,8 @@ As a chef i want to place the order at the selected restaurant so the restaurant
 
 # Glossary
 
-Restaurant
-Food
-Food Selection (Selection of Foods that includes its quantity and price)
-Meal
-Meal Order (The order of meals placed at the restaurant)
+- Restaurant
+- Food
+- Food Selection (Selection of Foods that includes its quantity and price)
+- Meal
+- Meal Order (The order of meals placed at the restaurant)

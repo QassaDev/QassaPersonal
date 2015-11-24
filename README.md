@@ -4,8 +4,8 @@
 
 # Roles
 
-Colleague
-Chef (Admin of the meals)
+- Colleague
+- Chef (Admin of the meals)
 
 # User stories
 
